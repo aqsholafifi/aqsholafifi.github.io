@@ -21,7 +21,7 @@
 title: Hi.
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Namaku Aqshol Afifi,selamat datang ,di web ini aku akan membahas hal hal apa aja yang mungkin menarik untuk dijadikan sebuah bacaan semoga berkenan,salam literasi
+  Namaku Aqshol Afifi,selamat datang kawan-kawan,di web ini aku akan membahas hal hal apa aja yang mungkin menarik untuk dijadikan sebuah bacaan semoga berkenan ya,salam literasi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aqsholafifi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anjay
