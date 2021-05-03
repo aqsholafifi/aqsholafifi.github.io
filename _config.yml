@@ -21,7 +21,7 @@
 title: Hi.
 email: aqsholafifi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Aqshol Afifi ,Web Developer. Data Scientist. Penyuka hal baru. Player mobile legenda. Dan lagi kuliah Sistem Informasi di sebuah Kampus.
+      Aqshol Afifi ,Web Developer. Data Scientist. Penyuka hal baru. Player mobile legenda. Dan lagi kuliah Sistem Informasi di sebuah Kampus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aqsholafifi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @aqsholafifi
